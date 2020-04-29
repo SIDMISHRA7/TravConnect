@@ -1,1 +1,1 @@
-# TravConnect
+# TravConnect Client project
